@@ -5,6 +5,7 @@ venv/
 .venv/
 contract_id.txt
 req.json
+temp_auto_push.bat
 node_modules/
 /dist
 site/dist
@@ -12,3 +13,5 @@ site/dist
 current_report.json
 .soroban/
 test_snapshots/
+.gitignore
+branch_structure.json
